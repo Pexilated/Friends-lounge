@@ -43,5 +43,23 @@ a{text-decoration:none;color:inherit}
 
 
 
+.whatsapp-float{
+  position:fixed;
+  bottom:20px;
+  right:20px;
+  width:60px;
+  height:60px;
+  background:#25D366;
+  color:white;
+  border-radius:50%;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  font-size:32px;
+  z-index:9999;
+}
+
+
+
 
 
