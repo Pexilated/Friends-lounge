@@ -24,7 +24,10 @@ a{text-decoration:none;color:inherit}
     height:68px;
     border-radius:50%;
     box-shadow:0 0 0 2px rgba(244,180,0,.25)}}
-.brand span{display:block;}
+.brand span{display:block;
+    font-family:'Baloo 2', cursive;
+    font-size:23px;
+}
 
 .nav-links{display:flex;align-items:center;gap:26px;font-weight:800;font-size:14px;text-transform:uppercase}.nav-links a{opacity:.9}.nav-links a:hover{color:var(--yellow)}.nav-cta{background:var(--yellow);color:#211000;padding:13px 20px;border-radius:16px;box-shadow:0 10px 30px rgba(244,180,0,.25)}
 .menu-toggle{display:none;background:var(--yellow);border:0;border-radius:12px;padding:9px 13px;font-size:22px}
